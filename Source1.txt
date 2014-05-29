@@ -1,1 +1,1 @@
-This is the second text file to get to use source code and GIT
+This is the second text file to get to use source code and GIT this is a changed file
